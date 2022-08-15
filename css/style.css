@@ -84,3 +84,6 @@ a:hover {
     width: 95%;
   }
 }
+#content ul {
+  list-style: none;
+}
